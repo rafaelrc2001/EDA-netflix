@@ -1,2 +1,3 @@
 # EDA-netflix
-Projecto con pyplot
+Project pyplot
+
